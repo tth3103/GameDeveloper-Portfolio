@@ -28,10 +28,10 @@ export const games: Game[] = [
     media: [
       { source: "/images/games/Starry-Venture/Starry-Venture-Screenshot-01.png", type: MediaType.Image },
       { source: "https://www.youtube.com/embed/ftXVuMwula8", type: MediaType.YouTube },
-      { source: "/images/games/Starry-Venture/Starry-Venture-Screenshot-02.png", type: MediaType.Image },
-      { source: "/images/games/Starry-Venture/Starry-Venture-Screenshot-03.png", type: MediaType.Image },
-      { source: "/images/games/Starry-Venture/Starry-Venture-Screenshot-04.png", type: MediaType.Image },
-      { source: "/images/games/Starry-Venture/Starry-Venture-Screenshot-05.png", type: MediaType.Image },
+      { source: "/images/games/Starry-Venture/Screenshot-02.png", type: MediaType.Image },
+      { source: "/images/games/Starry-Venture/Screenshot-03.png", type: MediaType.Image },
+      { source: "/images/games/Starry-Venture/Screenshot-04.png", type: MediaType.Image },
+      { source: "/images/games/Starry-Venture/Screenshot-05.png", type: MediaType.Image },
     ],
   },
   {
